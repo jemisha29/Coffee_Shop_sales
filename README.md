@@ -2,11 +2,36 @@
 
 ### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/groups/me/reports/bdb26f3c-a708-4135-ae56-462425c95c7d/019e63eca73135b43cf9?experience=power-bi)
 
+## Project Overview
+
+This dashboard provides a comprehensive overview of sales performance for a coffee shop during March 2023. It offers insights into key metrics such as total sales, orders, and quantity sold, as well as trends over time, sales by weekday/weekend, product category, top 10 products, and sales by day/hour.
+
 ## Problem Statement
 
 This dashboard provides the coffee shop owner with valuable insights into sales patterns, offering a detailed overview of total sales across various categories and locations. By highlighting areas for improvement, the dashboard enables the owner to enhance services strategically. It also provides analysis of average sales by weekday, weekend, and specific hours, helping identify times with Higher sales. 
 
 By using this dashboard, the owner can pinpoint problem areas and work on addressing the factors contributing to reduced sales, ultimately boosting overall performance.
+
+## Data Sources
+
+The primary dataset used for this analysis is the "Coffee Shop Sales.csv" file, containing detailed information about each transaction made by the shop.
+
+## Tools
+
+* **Excel - Data Cleaning**
+  * [Download here](F:\Data Analysis project\Power BI\coffee shop)
+* **SQL Server - Data Analysis**
+* **PowerBI - Creating reports**
+
+
+
+
+
+
+
+
+
+
 
 ### Steps followed 
 
