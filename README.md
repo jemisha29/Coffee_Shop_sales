@@ -19,7 +19,7 @@ The primary dataset used for this analysis is the "Coffee Shop Sales.csv" file, 
 ## Tools
 
 * **Excel - Data Cleaning**
-  * [Download here](F:\Data Analysis project\Power BI\coffee shop)
+  * [Download here](https://github.com/jemisha29/Coffee_Shop_sales/blob/main/Coffee%20Shop%20Sales.csv)
 * **SQL Server - Data Analysis**
 * **PowerBI - Creating reports**
 
