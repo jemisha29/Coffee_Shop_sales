@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This dashboard provides a comprehensive overview of sales performance for a coffee shop during March 2023. It offers insights into key metrics such as total sales, orders, and quantity sold, as well as trends over time, sales by weekday/weekend, product category, top 10 products, and sales by day/hour.
+This dashboard provides a comprehensive overview of sales performance for a coffee shop during 2023. It offers insights into key metrics such as total sales, orders, and quantity sold, as well as trends over time, sales by weekday/weekend, product category, top 10 products, and sales by day/hour.
 
 ## Problem Statement
 
@@ -61,20 +61,33 @@ Data Analysis involved exploring the sales data to answer key questions, such as
  ### MySql & DAX
 Utilized MySql and DAX to make measures and calculations for Total sales, Total orders, Total quantity sold, Sales analysis by weekdays and weekends, Sales analysis by store location, Daily sales with average line, Sales analysis by product category, Sales analysis by days and hours.
 
-- Total Sales Analysis: Card and line chart to visualize total sales over different time periods.
-- Total Order Analysis: Card and line chart to show the number of orders over different time periods.
-- Total Quantity Sold Analysis: Card and line chart to display the total quantity of products sold.
-- Sales Analysis by Weekdays and Weekends: pie chart to compare sales on weekdays versus weekends.
-- Sales Analysis by Store Location: Bar chart to show sales performance by location.
-- Daily Sales with Average Line: Column chart with an average line to show daily sales trends.
-- Sales Analysis by Product Category: Bar chart to display sales distribution across different product categories.
-- Top 10 Products by Sales: Bar charts to highlight the top 10 products based on sales.
-- Sales Analysis by Days and Hours: Matrix chart to analyze sales performance across different days and hours.
-- Calendar map for monthly and daywise: Matrix chart used to filter analysis based on month and day.
+- **Total Sales Analysis** : Card and line chart to visualize total sales over different time periods.
+- **Total Order Analysis** : Card and line chart to show the number of orders over different time periods.
+- **Total Quantity Sold Analysis** : Card and line chart to display the total quantity of products sold.
+- **Calendar map for monthly and daywise** : Matrix chart used to filter analysis based on month and day.
+- **Sales Analysis by Weekdays and Weekends** : pie chart to compare sales on weekdays versus weekends.
+- **Sales Analysis by Store Location** : Bar chart to show sales performance by location.
+- **Daily Sales with Average Line** : Column chart with an average line to show daily sales trends.
+- **Sales Analysis by Product Category** : Bar chart to display sales distribution across different product categories.
+- **Top 10 Products by Sales** : Bar charts to highlight the top 10 products based on sales.
+- **Sales Analysis by Days and Hours** : Matrix chart to analyze sales performance across different days and hours.
+- 
 - Tooltip in calender map and days & hours chart Implemented tooltip for the calendar map and matrix chart to display detailed information when hovering over each day and hour for analysis.
 
 
 ## Result
+<img src = "https://github.com/user-attachments/assets/4bca7df0-6a52-4f3e-9582-a7ff9a682edc" width="900" height="600">
+
+## Recommendations
+- **Product Focus** : Prioritize top-selling items and address underperforming products.
+- **Location Optimization** : Improve underperforming locations through targeted strategies.
+- **Weekday/Weekend Promotions** : Tailor promotions to specific days.
+- **Time-Based Marketing** : Optimize business hours and promotions based on sales patterns.
+- **Customer-Centric Approach** : Understand customer preferences and adjust offerings accordingly.
+
+## Conclusion
+The Coffee Shop Sales Analysis dashboard provides valuable insights into the sales performance of the coffee shop. By understanding key metrics and trends, the company can make data-driven decisions to enhance sales strategies, improve product offerings, and optimize overall performance.
+
 
 
 
