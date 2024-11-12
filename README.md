@@ -16,6 +16,8 @@ By using this dashboard, the owner can pinpoint problem areas and work on addres
 
 The primary dataset used for this analysis is the "Coffee Shop Sales.csv" file, containing detailed information about each transaction made by the shop.
 
+Create a dedicated "Date" table using DAX to generate date-specific columns for granular analysis.
+
 ## Tools
 
 * **Excel - Data Cleaning**
